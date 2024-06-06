@@ -20,7 +20,7 @@ Follow these instructions to set up and run an Airport Management System project
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/AirportManagementSystem.git
+   git clone https://github.com/kushalpatel0265/Airport-Management-System.git
 2. Import the SQL schema and data files provided into your database system.
 
 ## Usage
